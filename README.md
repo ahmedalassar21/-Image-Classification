@@ -24,14 +24,3 @@ The project aims to classify images into predefined categories by leveraging the
 5. **Evaluation**: Evaluate model performance using validation or test datasets, analyzing various metrics.
 6. **Demo Interface**: Deploy an interactive demo to showcase the combined feature-based classification capabilities.
 
-## Requirements
-
-- Python 3.x
-- OpenCV or scikit-image for HOG and LBP feature extraction
-- Libraries for chosen classification algorithms (e.g., scikit-learn, TensorFlow, PyTorch)
-
-## Contributions and Feedback
-
-Contributions, suggestions, and enhancements to improve the HOG & LBP-based image classification system are welcome! Feel free to contribute by opening issues or submitting pull requests.
-
-Explore the synergy between HOG and LBP features in image classification and enhance your understanding of feature-based computer vision techniques with this repository!
